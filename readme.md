@@ -17,6 +17,7 @@ The resulting repo is structured like this:
 .
 ├── css
 │   └── style.css
+├── .gitignore
 ├── index.html
 ├── js
 │   └── index.js
