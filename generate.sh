@@ -21,5 +21,6 @@ if [ -z "$1" ] # this is cheat. Should do a while loop to check for --server fla
     cd $currentdir"/server" && npm i
 fi
 
+cd ..
 echo "Here's your new repo. Don't forget to git init."
 ls -a
